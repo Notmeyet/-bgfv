@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rocket Launcher (TF2)
+* source:	https://sketchfab.com/3d-models/rocket-launcher-tf2-5c57f48929cc4b0b8789492b40a36e10
+* author:	AndromedaBoy (https://sketchfab.com/calebplays2019)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rocket Launcher (TF2)" (https://sketchfab.com/3d-models/rocket-launcher-tf2-5c57f48929cc4b0b8789492b40a36e10) by AndromedaBoy (https://sketchfab.com/calebplays2019) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
