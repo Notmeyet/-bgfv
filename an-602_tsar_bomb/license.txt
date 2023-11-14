@@ -1,0 +1,11 @@
+Model Information:
+* title:	AN-602 "Tsar Bomb"
+* source:	https://sketchfab.com/3d-models/an-602-tsar-bomb-6d458f8c9ca947c4922096fdaae2259b
+* author:	ArtEast. (https://sketchfab.com/ArtEast.)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "AN-602 "Tsar Bomb"" (https://sketchfab.com/3d-models/an-602-tsar-bomb-6d458f8c9ca947c4922096fdaae2259b) by ArtEast. (https://sketchfab.com/ArtEast.) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
