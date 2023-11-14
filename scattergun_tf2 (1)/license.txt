@@ -1,0 +1,11 @@
+Model Information:
+* title:	Scattergun (TF2)
+* source:	https://sketchfab.com/3d-models/scattergun-tf2-eee53c05ed0644e19286f99f2427f942
+* author:	AndromedaBoy (https://sketchfab.com/calebplays2019)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Scattergun (TF2)" (https://sketchfab.com/3d-models/scattergun-tf2-eee53c05ed0644e19286f99f2427f942) by AndromedaBoy (https://sketchfab.com/calebplays2019) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

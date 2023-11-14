@@ -1,0 +1,11 @@
+Model Information:
+* title:	357 Magnum Revolver
+* source:	https://sketchfab.com/3d-models/357-magnum-revolver-f55d451a8cd548878f6d8801a2c5b789
+* author:	TORI106 (https://sketchfab.com/TORI106)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "357 Magnum Revolver" (https://sketchfab.com/3d-models/357-magnum-revolver-f55d451a8cd548878f6d8801a2c5b789) by TORI106 (https://sketchfab.com/TORI106) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

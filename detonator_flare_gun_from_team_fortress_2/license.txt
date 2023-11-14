@@ -1,0 +1,11 @@
+Model Information:
+* title:	"Detonator" Flare gun from Team Fortress 2
+* source:	https://sketchfab.com/3d-models/detonator-flare-gun-from-team-fortress-2-4fcf1477109e4d0696bf22c42dcd0904
+* author:	Artex_112 (https://sketchfab.com/Artex_112)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on ""Detonator" Flare gun from Team Fortress 2" (https://sketchfab.com/3d-models/detonator-flare-gun-from-team-fortress-2-4fcf1477109e4d0696bf22c42dcd0904) by Artex_112 (https://sketchfab.com/Artex_112) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
