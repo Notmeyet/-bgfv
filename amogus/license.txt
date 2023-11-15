@@ -1,0 +1,11 @@
+Model Information:
+* title:	Amogus
+* source:	https://sketchfab.com/3d-models/amogus-aed0120bf85649d796b2ac2c1a1e0d37
+* author:	Unesty (https://sketchfab.com/unesty)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Amogus" (https://sketchfab.com/3d-models/amogus-aed0120bf85649d796b2ac2c1a1e0d37) by Unesty (https://sketchfab.com/unesty) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
